@@ -1,0 +1,8 @@
+Javascript expression:
+    Sth that produces the result is called expression.
+Statements:
+    That does not produce result. eg, if else while statement
+Function declaration
+   function a() {//.. } => are statements, doesnt produce immediate result.
+Function expression
+   var a = function() { //.. } => are expression.
