@@ -1,0 +1,5 @@
+Javascript arrays can contain any types in contrast to Java having only one type.
+
+Different ways of creating of arrays.
+   var names = ['Susan', 'Saskar', 'Sangi', 'Saskriti'];
+   var names = new Array('Susan', 'Saskar', 'Sangi', 'Saskriti');
